@@ -1,1 +1,1 @@
-nginx: "registry.cn-hangzhou.aliyuncs.com/hhyasdf/nginx"
+timescale/timescaledb-ha:pg17: "registry.cn-shenzhen.aliyuncs.com/tatamethues/timescaledb-ha"
