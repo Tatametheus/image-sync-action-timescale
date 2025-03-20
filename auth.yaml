@@ -1,3 +1,3 @@
-registry.cn-hangzhou.aliyuncs.com/tatamethues:
+registry.cn-shenzhen.aliyuncs.com/tatamethues:
   password: ${ACR_PASSWORD}
   username: tatamethues
